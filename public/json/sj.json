@@ -1,0 +1,42 @@
+[
+	{
+		"goodsName":"Samsung Fold",
+		"img":"img/sj/fold.jpg"
+	},
+	{
+		"goodsName":"iPhone 5s",
+		"img":"img/sj/iPhone5s.jpg"
+	},
+	{
+		"goodsName":"iPhone11 Pro Max",
+		"img":"img/sj/iPhone11promax.jpg"
+	},
+	{
+		"goodsName":"魅族 5s",
+		"img":"img/sj/meilan5s.jpg"
+	},
+	{
+		"goodsName":"魅族 6s Pro",
+		"img":"img/sj/meizu16spro.jpg"
+	},
+	{
+		"goodsName":"小米6",
+		"img":"img/sj/mi6.jpg"
+	},
+	{
+		"goodsName":"oppo reno3",
+		"img":"img/sj/opporeno3.jpg"
+	},
+	{
+		"goodsName":"Razer 2",
+		"img":"img/sj/razer2.jpg"
+	},
+	{
+		"goodsName":"Samsung s10",
+		"img":"img/sj/samsungs10.jpg"
+	},
+	{
+		"goodsName":"Oneplus 7Pro",
+		"img":"img/sj/oneplus7Pro.jpg"
+	}
+]
